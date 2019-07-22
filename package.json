@@ -1,5 +1,5 @@
 {
-  "name": "@melobee/react-native-nodemediaclient",
+  "name": "react-native-nodemediaclient",
   "version": "0.1.2",
   "description": "",
   "main": "index.js",
